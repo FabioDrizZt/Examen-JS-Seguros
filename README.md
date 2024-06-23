@@ -1,8 +1,8 @@
-# Trabajo Práctico Integrador de Desarrollo Web Frontend
+# Examen de JavaScript para Desarrollo Web Frontend
 
 ## Introducción
 
-El objetivo de este trabajo práctico es desarrollar una aplicación web de cotización de seguros del hogar utilizando HTML, CSS y JavaScript. Este repositorio contiene los archivos `index.html`, `historial.html` y `datos.json`. Deberás crear los archivos JavaScript necesarios para dinamizar las páginas y cumplir con los requerimientos funcionales.
+El objetivo de este examen desarrollar una aplicación web de cotización de seguros del hogar utilizando HTML, CSS y JavaScript. Este repositorio contiene los archivos `index.html`, `historial.html` y `datos.json`. Deberás crear los archivos JavaScript necesarios para dinamizar las páginas y cumplir con los requerimientos funcionales.
 
 ## Archivos proporcionados
 
