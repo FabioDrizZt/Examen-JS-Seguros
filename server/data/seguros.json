@@ -1,0 +1,18 @@
+{
+  "costoBasePorM2": 35.5,
+  "propiedades": [
+    { "id": "casa", "tipo": "Casa Familiar", "factor": 1.09 },
+    { "id": "ph", "tipo": "P.H. (Propiedad Horizontal)", "factor": 1.05 },
+    { "id": "depto", "tipo": "Depto. en Edificio", "factor": 1.02 },
+    { "id": "barrio-cerrado", "tipo": "Casa en Barrio Cerrado", "factor": 1.19 },
+    { "id": "oficina", "tipo": "Oficina Comercial", "factor": 1.35 },
+    { "id": "local", "tipo": "Local a la Calle", "factor": 1.41 }
+  ],
+  "ubicaciones": [
+    { "id": "caba", "tipo": "Ciudad Autónoma de Buenos Aires (CABA)", "factor": 1.13 },
+    { "id": "gba", "tipo": "Gran Buenos Aires (GBA)", "factor": 1.18 },
+    { "id": "costa", "tipo": "Costa Atlántica", "factor": 1.25 },
+    { "id": "cordoba", "tipo": "Córdoba Capital / Sierras", "factor": 1.08 },
+    { "id": "patagonia", "tipo": "Región Patagónica", "factor": 1.0 }
+  ]
+}
